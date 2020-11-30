@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd0a98c6-5c31-4420-9f32-c6019eef0b41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1kffZGYEKUDwKF3k7U5UlVX6mCk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/language/后端" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files/language/后端" />
+      <recent name="$PROJECT_DIR$/models/tool" />
+      <recent name="$PROJECT_DIR$/cache" />
+      <recent name="$PROJECT_DIR$/models/blockchain" />
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build bee-structure" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="bee-structure" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="bee-structure" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="300" key="#Go_Modules" timestamp="1606097732253">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="520" y="300" key="#Go_Modules/0.25.1440.875@0.25.1440.875" timestamp="1606097732253" />
+    <state x="184" y="121" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606097727420">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="121" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1606097727420" />
+    <state width="1398" height="282" key="GridCell.Tab.0.bottom" timestamp="1606118882825">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1606118882825" />
+    <state width="1398" height="282" key="GridCell.Tab.0.center" timestamp="1606118882825">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1606118882825" />
+    <state width="1398" height="282" key="GridCell.Tab.0.left" timestamp="1606118882824">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1606118882824" />
+    <state width="1398" height="282" key="GridCell.Tab.0.right" timestamp="1606118882825">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1606118882825" />
+    <state width="1398" height="282" key="GridCell.Tab.1.bottom" timestamp="1606118882826">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1606118882826" />
+    <state width="1398" height="282" key="GridCell.Tab.1.center" timestamp="1606118882825">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1606118882825" />
+    <state width="1398" height="282" key="GridCell.Tab.1.left" timestamp="1606118882825">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1606118882825" />
+    <state width="1398" height="282" key="GridCell.Tab.1.right" timestamp="1606118882825">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1606118882825" />
+    <state x="421" y="188" width="597" height="548" key="find.popup" timestamp="1606705632778">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="421" y="188" width="597" height="548" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1606705632778" />
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1606100546471">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1606100546471" />
+  </component>
+</project>

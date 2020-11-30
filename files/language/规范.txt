@@ -1,0 +1,7 @@
+前端Key以a_前缀开头
+后端端Key以b_前缀开头
+
+后端Key分为
+单独模块 b_模块简写_ 为
+行为Key以behavior开头
+状态Key以status开头
